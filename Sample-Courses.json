@@ -1,0 +1,21 @@
+{
+  "courses": [
+    {
+      "title": "Intro to JavaScript",
+      "description": "Variables, functions and the basics of the web's language.",
+      "lessons": [
+        { "title": "Variables and types", "content": "let, const and the primitive types.", "duration": 15 },
+        { "title": "Functions", "content": "Declarations, arrow functions and scope.", "duration": 20 },
+        { "title": "Arrays and objects", "content": "Working with collections of data.", "duration": 25 }
+      ]
+    },
+    {
+      "title": "MongoDB Basics",
+      "description": "Documents, collections and simple queries.",
+      "lessons": [
+        { "title": "Documents and collections", "content": "How MongoDB stores data.", "duration": 15 },
+        { "title": "Querying", "content": "find, filters and projections.", "duration": 20 }
+      ]
+    }
+  ]
+}
